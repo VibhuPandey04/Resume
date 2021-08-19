@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Akaya Kanadaka', cursive;
+
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 400%;
+    margin-top:0;
+}
+
+h2{
+    font-size:300%;
+    font-family: 'Sacramento', cursive;
+}
+
+h3{
+    font-size: 250%;
+
+    font-family: 'Sacramento', cursive;
+}
+
+p{
+    font-size: 150%;
+}
+
+hr {
+    background-color: lightgrey;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: black;
+    border-width: 5px;
+    margin: 100px auto ;
+    width: 10%;
+    height: 0px;
+}
+
+
+.top-container{
+    background-color: #26DCBF;/*#E4F9F5;*/
+    position: relative;
+    padding-top: 170px;
+}
+
+.middle-container{
+    background-color: lightgrey;
+    position: relative;
+    padding-top: 10%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.skill-row{
+
+    margin: 50px 150px 50px 150px;
+    text-align: left;
+}
+.dsimg{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.mlimg{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.wdimg{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+#dslogo{
+    height:40%;
+    width:40%;
+}
+
+.bottom-container{
+    background-color: #8ac4d0;
+
+
+}
+
+.top-cloud{
+    position: absolute;
+    right: 10%;
+    top: 10%;
+}
+
+.bottom-cloud{
+    position:absolute;
+    left: 10%;
+    bottom: 50%;
+}
